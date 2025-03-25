@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <obj>w32api/crt2.o</obj>
+  <obj>head/consolehead.o</obj>
+  <obj>head/head.o</obj>
+  <jar>C:\Docs\CompSciIA-Simplified-Project\bin\CompSciIA-Simplified-Project.jar</jar>
+  <outfile>C:\Docs\CompSciIA-Simplified-Project\src\Picturer_0.1.3.exe</outfile>
+  <errTitle>No Java JRE install detected.</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251655_7ed26d28139143f38c58992680c214a5</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Docs\CompSciIA-Simplified-Project\lib\Picturer.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
