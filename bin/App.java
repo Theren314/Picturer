@@ -29,7 +29,7 @@ public class App {
             if (process.equals("")) {
                 scan.close();
                 return;
-            } else if (process.equals("2") || process.equals("2")) {
+            } else if (process.equals("2") || process.equals("3")) {
                 System.out.println("Type Intensity of blur between 1 and 15\nPress Enter to Exit");
                 intensity = scan.next();
                 if (intensity.equals("")) {
