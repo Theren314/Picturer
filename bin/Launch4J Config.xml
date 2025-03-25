@@ -13,7 +13,7 @@
   <priority>normal</priority>
   <downloadUrl>https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251655_7ed26d28139143f38c58992680c214a5</downloadUrl>
   <supportUrl></supportUrl>
-  <stayAlive>true</stayAlive>
+  <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
   <icon>C:\Docs\CompSciIA-Simplified-Project\lib\Picturer.ico</icon>
